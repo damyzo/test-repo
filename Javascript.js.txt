@@ -1,0 +1,5 @@
+Eve nova promena
+Za da gu vidimo ovuj promenu treba da napravimo git add pa git commit 
+Ili mozes direknto preko ovoj dugme plavo od stranu 
+Prvo treba poruku da napises 
+Pa tg da ga stisnes commit
